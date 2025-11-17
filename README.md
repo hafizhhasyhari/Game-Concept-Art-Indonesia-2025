@@ -62,3 +62,112 @@ Mata kuliah ini berfokus pada pengembangan 4 proyek utama secara paralel, dengan
 
 📫 **Mari Terhubung:**
 * mez.ink/hafizhhasyhari
+
+game-concept-art-2025/
+│
+├── README.md                 # Halaman utama (draf di atas)
+├── SILABUS.LENGKAP.md        # File ini berisi silabus 16 minggu
+├── LICENSE
+├── .gitignore
+│
+├── 01-materi/
+│   ├── minggu-01/
+│   ├── minggu-02/
+│   └── ... (hingga minggu-16)
+│
+├── 02-praktik-lab/
+│   ├── minggu-01-csp-basics/
+│   ├── minggu-02-blender-basics/
+│   └── ... (file .blend, .ma, .clip)
+│
+├── 03-latihan-mandiri/
+│   ├── minggu-01-sketsa-dasar/
+│   ├── minggu-02-modeling-primitif/
+│   └── ... (hasil latihan kecil)
+│
+├── 04-pameran-showcase/
+│   ├── README.md               # Galeri portofolio
+│   ├── minggu-01.md
+│   ├── minggu-02.md
+│   └── ... (render & screenshot terbaik)
+│
+├── 05-project-akhir/
+│   ├── README.md               # Penjelasan 4 pilar proyek
+│   ├── project-01-karakter/
+│   │   ├── 01-konsep-referensi/
+│   │   ├── 02-modeling-sculpting/
+│   │   ├── 03-retopo-uv/
+│   │   ├── 04-tekstur-rigging/
+│   │   └── 05-final-render/
+│   ├── project-02-lingkungan/
+│   ├── project-03-properti/
+│   └── project-04-kendaraan/
+│
+├── 06-penelitian-teori/
+│   ├── tinjauan-artbook/
+│   ├── analisis-pipeline-studio/
+│   └── paper-akademis/
+│
+├── 07-pengabdian-sosial/
+│   ├── ide-workshop/
+│   ├── aset-untuk-edukasi/
+│   └── ... (proposal & ide)
+│
+├── 08-karya-seni-ip/
+│   ├── art-bible.md            # Dokumen lore & world-building
+│   ├── desain-logo-faksi/
+│   └── catatan-haki/
+│
+├── 09-catatan-refleksi/
+│   ├── jurnal-mingguan/
+│   ├── kesulitan-teknis/
+│   └── self-critique/
+│
+├── 10-nasihat-motivasi/
+│   ├── kutipan-seniman/
+│   ├── talk-gdc-favorit/
+│   └── inspirasi/
+│
+├── 11-naskah-cerita/
+│   ├── lore-karakter/
+│   ├── deskripsi-lingkungan/
+│   └── ide-plot/
+│
+├── media/
+│   └── images/                 # Banner & gambar untuk README
+│
+└── tools-aset/
+    ├── csp-brushes/
+    ├── blender-addons/
+    ├── maya-scripts/
+    └── referensi-hdri/
+
+
+📝 Deskripsi Folder
+Berikut adalah penjelasan untuk setiap folder utama:
+
+01-materi/: Berisi semua materi teori, slide presentasi, PDF, dan tautan referensi dari dosen untuk setiap pertemuan mingguan.
+
+02-praktik-lab/: Kumpulan file kerja dari sesi praktik di lab. Ini termasuk file .clip (Clip Studio Paint), .blend (Blender), dan .ma (Maya).
+
+03-latihan-mandiri/: Hasil dari latihan kecil atau daily challenge. Ini adalah tempat untuk eksperimen dan pemanasan di luar proyek utama.
+
+04-pameran-showcase/: Galeri portofolio mini. Berisi render terbaik, screenshot progres, dan turnaround yang dipoles untuk dipamerkan.
+
+05-project-akhir/: Folder inti yang melacak progres 4 pilar proyek (Karakter, Lingkungan, Properti, Kendaraan) dari awal hingga akhir.
+
+06-penelitian-teori/: Tinjauan akademis. Berisi analisis artbook, studi kasus pipeline studio game, dan ringkasan paper terkait concept art.
+
+07-pengabdian-sosial/: Ide dan proposal untuk menerapkan keahlian concept art bagi masyarakat, seperti ide workshop atau pembuatan aset edukasi gratis.
+
+08-karya-seni-ip/: Pengembangan Intellectual Property (IP) / HAKI. Berisi art bible, dokumen world-building, desain logo faksi, dan lore.
+
+09-catatan-refleksi/: Jurnal belajar pribadi. Berisi catatan mingguan, self-critique, dan solusi untuk kesulitan teknis yang dihadapi.
+
+10-nasihat-motivasi/: Kumpulan kutipan inspiratif, tautan ke GDC Talk favorit, dan materi lain yang menjaga semangat belajar.
+
+11-naskah-cerita/: Komponen storytelling. Berisi ide plot, backstory karakter, dan deskripsi sinematik untuk lingkungan yang dibuat.
+
+media/: Aset visual yang digunakan untuk mempercantik README.md ini, seperti banner, header, atau GIF.
+
+tools-aset/: Kumpulan resource teknis yang digunakan, seperti brush pack CSP, addons Blender, scripts Maya, dan file HDRI.
